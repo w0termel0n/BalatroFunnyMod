@@ -1,0 +1,3 @@
+-- Balatro Funny Mod placeholder
+-- Lua? I hardly know er!!!
+-- code here ig
